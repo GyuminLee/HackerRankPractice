@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="063c6444-8e38-4914-a2b3-11636cfbcb8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UTV8nHdX9z5rBr2wa7i0IKs1K1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="Application.CommonChild">
+    <configuration name="AlternatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlternatingCharacters" />
+      <module name="StringManipulationHackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonChild" />
+      <module name="StringManipulationHackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakingAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MakingAnagrams" />
+      <module name="StringManipulationHackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CommonChild" />
+        <item itemvalue="Application.AlternatingCharacters" />
+        <item itemvalue="Application.MakingAnagrams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="063c6444-8e38-4914-a2b3-11636cfbcb8f" name="Default Changelist" comment="" />
+      <created>1575380415009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575380415009</updated>
+      <workItem from="1575380418618" duration="454000" />
+      <workItem from="1575381016536" duration="6661000" />
+      <workItem from="1575549606168" duration="9000" />
+      <workItem from="1575625705262" duration="6941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="277" key="GridCell.Tab.0.bottom" timestamp="1575659477642">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575387253554" />
+    <state width="1398" height="277" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575659477642" />
+    <state width="1325" height="217" key="GridCell.Tab.0.bottom/0.23.1387.877/-394.-1057.1920.1057@0.23.1387.877" timestamp="1575382441531" />
+    <state width="1398" height="277" key="GridCell.Tab.0.center" timestamp="1575659477640">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575387253552" />
+    <state width="1398" height="277" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575659477640" />
+    <state width="1325" height="217" key="GridCell.Tab.0.center/0.23.1387.877/-394.-1057.1920.1057@0.23.1387.877" timestamp="1575382441517" />
+    <state width="1398" height="277" key="GridCell.Tab.0.left" timestamp="1575659477636">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575387253549" />
+    <state width="1398" height="277" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575659477636" />
+    <state width="1325" height="217" key="GridCell.Tab.0.left/0.23.1387.877/-394.-1057.1920.1057@0.23.1387.877" timestamp="1575382441514" />
+    <state width="1398" height="277" key="GridCell.Tab.0.right" timestamp="1575659477641">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575387253553" />
+    <state width="1398" height="277" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575659477641" />
+    <state width="1325" height="217" key="GridCell.Tab.0.right/0.23.1387.877/-394.-1057.1920.1057@0.23.1387.877" timestamp="1575382441530" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1575386572157">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575386572157" />
+    <state x="370" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1575381039379">
+      <screen x="0" y="23" width="1387" height="877" />
+    </state>
+    <state x="370" y="293" key="com.intellij.ide.util.TipDialog/0.23.1387.877/-394.-1057.1920.1057@0.23.1387.877" timestamp="1575381039379" />
+    <state x="97" y="72" key="new project wizard" timestamp="1575635394284">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1575635394284" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1575626467811">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575386502166" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1575626467811" />
+  </component>
+</project>

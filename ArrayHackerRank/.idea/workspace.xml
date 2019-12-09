@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac3f36e0-ef27-43da-a904-a079604adcbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UVtti2IqDXD5NWkPRY2DyV5cwi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SpecialStringAgain">
+    <configuration name="ArrayManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayManipulation" />
+      <module name="ArrayHackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewYearChaos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewYearChaos" />
+      <module name="ArrayHackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SherlockAndValidString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SherlockAndValidString" />
+      <module name="ArrayHackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialStringAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpecialStringAgain" />
+      <module name="ArrayHackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpecialStringAgain" />
+        <item itemvalue="Application.SherlockAndValidString" />
+        <item itemvalue="Application.ArrayManipulation" />
+        <item itemvalue="Application.NewYearChaos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac3f36e0-ef27-43da-a904-a079604adcbb" name="Default Changelist" comment="" />
+      <created>1575453807240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575453807240</updated>
+      <workItem from="1575453813280" duration="485000" />
+      <workItem from="1575461537023" duration="7934000" />
+      <workItem from="1575538287078" duration="12532000" />
+      <workItem from="1575625686556" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1575540669703">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1575540669703" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1575555183615">
+      <screen x="0" y="23" width="1386" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575471066651" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575553256170" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1386.877@0.23.1386.877" timestamp="1575555183615" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1387.877@0.23.1387.877" timestamp="1575486842695" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1575555183612">
+      <screen x="0" y="23" width="1386" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575471066649" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575553256169" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1386.877@0.23.1386.877" timestamp="1575555183612" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1387.877@0.23.1387.877" timestamp="1575486842694" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1575555183612">
+      <screen x="0" y="23" width="1386" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575471066647" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575553256168" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1386.877@0.23.1386.877" timestamp="1575555183612" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1387.877@0.23.1387.877" timestamp="1575486842694" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1575555183614">
+      <screen x="0" y="23" width="1386" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575471066650" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575553256169" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1386.877@0.23.1386.877" timestamp="1575555183614" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1387.877@0.23.1387.877" timestamp="1575486842695" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1575625685789">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575453815440" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1575625685789" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1575540664895">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-394.-1080.1920.1080@0.0.1440.900" timestamp="1575454083861" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1575540664895" />
+  </component>
+</project>
