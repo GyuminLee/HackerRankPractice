@@ -1,4 +1,4 @@
->[Click here to check](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+>[Click here to check](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 Solution:
 The idea is all about finding the peak-valley pattern. In every upward segment, we earn money. As for the limitation of `You may not engage in multiple transactions at the same time`, it doesn't matter at all.
